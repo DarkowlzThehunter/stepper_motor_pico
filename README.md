@@ -1,6 +1,6 @@
 # Stepper Motor Control with Raspberry Pi Pico
 
-This repository contains the code for my project during summer training in Japan. The project demonstrates how to control a stepper motor using a Raspberry Pi Pico and serial commands to move the motor forward, backward, rehome it, and adjust its speed.
+This repository is for my summer training project in Japan. The project focuses on controlling a stepper motor using a Raspberry Pi Pico. It utilizes the Pico's timer alarms for precise motor control, allowing for smooth movement forward, backward, rehoming, and speed adjustments, all through serial commands.
 
 ## Features
 - Control stepper motor movement in both forward and backward directions.
