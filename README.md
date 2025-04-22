@@ -35,7 +35,7 @@ You can control the motor through the following commands via serial:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/stepper_motor_pico.git
+   git clone https://github.com/DarkowlzThehunter/stepper_motor_pico.git
 2. Open the project in your preferred development environment.
 3. Upload the code to your Raspberry Pi Pico.
  
